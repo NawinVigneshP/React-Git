@@ -1,0 +1,16 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sty
+{
+    justify-content: center;
+    align-items: center;
+}
+body
+{
+    background: rgb(18,213,207);
+background: linear-gradient(90deg, rgba(18,213,207,1) 0%, rgba(46,186,239,1) 21%, rgba(17,205,183,1) 72%, rgba(20,215,203,1) 91%, rgba(4,176,130,1) 100%);
+}
